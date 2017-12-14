@@ -1,0 +1,2 @@
+# djangogirls
+Django blog app
